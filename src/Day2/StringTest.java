@@ -1,7 +1,5 @@
 package Day2;
 
-import java.io.Console;
-
 /**
  * @Author TangXi
  * @Date 19-11-3 下午8:39
